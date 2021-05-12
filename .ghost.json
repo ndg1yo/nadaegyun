@@ -1,0 +1,10 @@
+{
+    "development": {
+        "apiUrl": "https://nadaegyun.herokuapp.com",
+        "contentApiKey": "c6ac9c2f5b90ca74ff28e1dfa1"
+    },
+    "production": {
+        "apiUrl": "https://nadaegyun.herokuapp.com",
+        "contentApiKey": "c6ac9c2f5b90ca74ff28e1dfa1"
+    }
+}
